@@ -1,0 +1,6 @@
+{
+    "xbox_email": "# add your email",
+    "xbox_password": "# add your password",
+    "xbox_ss_path": "# add your desired path for storing successful codes screenshot (proof)",
+    "xbox_err_path": "# add your desired path for storing error logs from invalid codes"
+}
